@@ -1,0 +1,9 @@
+prometheus-fastapi-instrumentator
+prometheus_client
+fastapi
+uvicorn
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn

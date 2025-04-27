@@ -1,0 +1,6 @@
+data/retailrocket/events.csv filter=lfs diff=lfs merge=lfs -text
+model.pkl filter=lfs diff=lfs merge=lfs -text
+venv/lib/python3.12/site-packages/pyarrow/libarrow.so.2000 filter=lfs diff=lfs merge=lfs -text
+archive.zip filter=lfs diff=lfs merge=lfs -text
+data/retailrocket/item_properties_part1.csv filter=lfs diff=lfs merge=lfs -text
+data/retailrocket/item_properties_part2.csv filter=lfs diff=lfs merge=lfs -text
